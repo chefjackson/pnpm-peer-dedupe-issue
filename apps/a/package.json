@@ -1,0 +1,10 @@
+{
+  "name": "@test/a",
+  "version": "0.0.1",
+  "dependencies": {
+    "@test/b": "workspace:^",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "wagmi": "1.4.13"
+  }
+}

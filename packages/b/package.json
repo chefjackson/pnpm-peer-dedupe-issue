@@ -1,0 +1,9 @@
+{
+  "name": "@test/b",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "react": ">=17.0.0",
+    "viem": ">=0.3.35",
+    "wagmi": "^1.4.13"
+  }
+}

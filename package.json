@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "packageManager": "pnpm@8.5.1"
+}
