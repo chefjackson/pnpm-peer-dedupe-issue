@@ -9,16 +9,15 @@ pacakges:
       - b
       - c
       - react
-      - react-dom
       - viem
       - wagmi
-      - zod
 
   b:
     dependencies:
       - react
       - viem
       - wagmi
+      - react-dom
 
   c:
     dependencies:
